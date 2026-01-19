@@ -69,9 +69,9 @@
 
 <!-- ====== SPOTIFY ====== -->
 <div align="right">
-  <a href="https://open.spotify.com/user/Sorenozen">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Sorenozen&count=5&unique=true" alt="Spotify recently played" />
-  </a>
+  <a href="https://open.spotify.com/track/1wZWYCb3Lyhk4TuSnuThkK?si=7334aba7029340dd" target="_blank">
+  <img src="https://img.shields.io/badge/Featured%20Track-Play%20on%20Spotify-1E40AF?style=for-the-badge&logo=spotify&logoColor=white" height="35" />
+</a>
 </div>
 
 <!-- ====== SOCIAL (ปรับเป็นโทนขาว-น้ำเงิน) ====== -->
