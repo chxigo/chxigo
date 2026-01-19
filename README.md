@@ -6,7 +6,7 @@
 <h2 align="center">Hi, I'm Sonic from C.M.A, Pseudonym Chxigo</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&color=0B5FFF&center=true&vCenter=true&width=520&lines=Game%20Hacking;WebDev;Graphic%20Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&color=0B5FFF&center=true&vCenter=true&width=700&lines=Game%20Hacking%20%7C%20WebDev%20%7C%20Graphic%20Design" alt="Typing SVG" />
 </p>
 
 <!-- ====== STATS (White-Blue theme) ====== -->
