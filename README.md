@@ -68,10 +68,14 @@
 <hr style="border:1px solid #DBEAFE;"/>
 
 <!-- ====== SPOTIFY ====== -->
-<div align="right">
+<div align="center">
   <a href="https://open.spotify.com/track/1wZWYCb3Lyhk4TuSnuThkK?si=7334aba7029340dd" target="_blank">
-  <img src="https://img.shields.io/badge/Featured%20Track-Play%20on%20Spotify-1E40AF?style=for-the-badge&logo=spotify&logoColor=white" height="35" />
-</a>
+    <img src="PASTE_THUMBNAIL_URL_HERE" width="340" style="border-radius:12px;" alt="Spotify Track"/>
+  </a>
+  <br/>
+  <a href="https://open.spotify.com/track/1wZWYCb3Lyhk4TuSnuThkK?si=7334aba7029340dd" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-Open%20Track-0B5FFF?style=for-the-badge&logo=spotify&logoColor=white" height="35" alt="Spotify"/>
+  </a>
 </div>
 
 <!-- ====== SOCIAL (ปรับเป็นโทนขาว-น้ำเงิน) ====== -->
