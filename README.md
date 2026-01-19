@@ -67,14 +67,25 @@
 
 <hr style="border:1px solid #DBEAFE;"/>
 
-<!-- ====== SPOTIFY ====== -->
+<!-- ====== FEATURED SPOTIFY TRACK (GitHub-safe) ====== -->
 <div align="center">
   <a href="https://open.spotify.com/track/1wZWYCb3Lyhk4TuSnuThkK?si=7334aba7029340dd" target="_blank">
-    <img src="PASTE_THUMBNAIL_URL_HERE" width="340" style="border-radius:12px;" alt="Spotify Track"/>
+    <img
+      src="https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e0221e87424486e2b6167997ef1"
+      width="260"
+      alt="Spotify Track: Seaside"
+      style="border-radius:16px; border:1px solid #93C5FD;"
+    />
   </a>
-  <br/>
+
+  <br/><br/>
+
   <a href="https://open.spotify.com/track/1wZWYCb3Lyhk4TuSnuThkK?si=7334aba7029340dd" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-Open%20Track-0B5FFF?style=for-the-badge&logo=spotify&logoColor=white" height="35" alt="Spotify"/>
+    <img
+      src="https://img.shields.io/badge/Spotify-Seaside-0B5FFF?style=for-the-badge&logo=spotify&logoColor=white"
+      height="36"
+      alt="Open on Spotify"
+    />
   </a>
 </div>
 
