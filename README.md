@@ -1,12 +1,12 @@
 <!-- ====== HEADER (ขาว-น้ำเงิน + เท่ขึ้น) ====== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B5FFF,100:1E3A8A&height=180&section=header&text=Counter Meta Agency&fontSize=52&fontColor=FFFFFF&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B5FFF,100:1E3A8A&height=180&section=header&text=Counter%20Meta%20Agency&fontSize=52&fontColor=FFFFFF&animation=fadeIn" alt="header"/>
 </p>
 
-<h2 align="center">Hi, I'm Sonic from C.M.A</h2>
+<h2 align="center">Hi, I'm Sonic from C.M.A, Pseudonym Chxigo</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=600&color=0B5FFF&center=true&vCenter=true&width=520&lines=Blue+%26+White+Theme;Code+%7C+Design+%7C+Build;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&color=0B5FFF&center=true&vCenter=true&width=520&lines=Game%20Hacking;WebDev;Graphic%20Design" alt="Typing SVG" />
 </p>
 
 <!-- ====== STATS (White-Blue theme) ====== -->
