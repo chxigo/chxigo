@@ -67,28 +67,6 @@
 
 <hr style="border:1px solid #DBEAFE;"/>
 
-<!-- ====== FEATURED SPOTIFY TRACK (GitHub-safe) ====== -->
-<div align="center">
-  <a href="https://open.spotify.com/track/1wZWYCb3Lyhk4TuSnuThkK?si=7334aba7029340dd" target="_blank">
-    <img
-      src="https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e0221e87424486e2b6167997ef1"
-      width="260"
-      alt="Spotify Track: Seaside"
-      style="border-radius:16px; border:1px solid #93C5FD;"
-    />
-  </a>
-
-  <br/><br/>
-
-  <a href="https://open.spotify.com/track/1wZWYCb3Lyhk4TuSnuThkK?si=7334aba7029340dd" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Spotify-Seaside-0B5FFF?style=for-the-badge&logo=spotify&logoColor=white"
-      height="36"
-      alt="Open on Spotify"
-    />
-  </a>
-</div>
-
 <!-- ====== SOCIAL (ปรับเป็นโทนขาว-น้ำเงิน) ====== -->
 <h3 align="left" style="color:#1E40AF;">Connect</h3>
 <div align="left">
