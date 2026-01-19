@@ -1,6 +1,6 @@
 <!-- ====== HEADER (ขาว-น้ำเงิน + เท่ขึ้น) ====== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B5FFF,100:1E3A8A&height=180&section=header&text=SONIC%20%7C%20C.M.A&fontSize=52&fontColor=FFFFFF&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B5FFF,100:1E3A8A&height=180&section=header&text=Counter Meta Agency&fontSize=52&fontColor=FFFFFF&animation=fadeIn" alt="header"/>
 </p>
 
 <h2 align="center">Hi, I'm Sonic from C.M.A</h2>
