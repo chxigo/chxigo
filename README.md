@@ -71,13 +71,13 @@
 <h3 align="left" style="color:#1E40AF;">Connect</h3>
 <div align="left">
   <!-- ใส่ลิงก์จริงแทน # ได้เลย -->
-  <a href="#" target="_blank">
+  <a href="https://www.instagram.com/_.chxigo/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-0B5FFF?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="instagram badge" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://discord.gg/QCcdPEuZ9P" target="_blank">
     <img src="https://img.shields.io/badge/Discord-1E40AF?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="discord badge" />
   </a>
-  <a href="mailto:yourmail@gmail.com" target="_blank">
+  <a href="mailto:sorenozen@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-0B5FFF?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail badge" />
   </a>
 </div>
